@@ -1,8 +1,5 @@
 <h1 align="center">Howdy 👋, I'm Aravindh kumar</h1>
 <h3 align="center">A Passionate Programmer / Developer From India</h3>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Aravindh2003&label=Profile%20views&color=0e75b6&style=flat" alt="Aravindh2003" /> </p>
-
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🔭 Here's my [portfolio](https://aravindh2003.github.io/Portfolio/)                                                 
 - 🌱 I’m currently learning DSA
@@ -14,6 +11,7 @@
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I know  High On Visual Creativity
 
+---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/Aravindh_023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Aravindh_023" height="30" width="40" /></a>
