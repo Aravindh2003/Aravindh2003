@@ -26,7 +26,7 @@
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Aravindh2003?ext=contest&theme=dark)](https://leetcode.com/u/Aravindh)
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aravindh2003&show_icons=true&locale=en&include_all_commits=true&hide_border=true&theme=radical&layout=compact" alt="aravindh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aravindh2003&hide_border=true&theme=radical" alt="aravindh" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aravindh&hide_border=true&theme=radical" alt="aravindh" /></p>
 <!--
 **Aravindh2003/Aravindh2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
